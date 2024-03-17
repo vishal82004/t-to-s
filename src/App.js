@@ -16,7 +16,7 @@ function App() {
         className="textAreaStyle"
         onChange={(e) => {
           setText(e.target.value);
-        }}
+        }} 
       ></textarea>
       <button
         className="buttonStyle"
